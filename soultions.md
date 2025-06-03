@@ -1,7 +1,8 @@
 # Excercise 1 
 
 Linus Torvalds created  github in 2005 
-Git is a version control system designed to help keep track of changes in software development. It also allows developers  to work on a project simultaneously with interfering each other's work
+
+Git is a version control system designed to help keep track of changes in software development. It also allows developers  to work on a project simultaneously with interfering each other's work.
 
 # Excercise 2
 
@@ -33,6 +34,7 @@ Git commit saves the state of the project. It saves a new commit object in the l
 # Excersise 6 
 
 You use the command touch .gitignore
+
 edit the git ignore folder with the file you want to ignore 
 
 # Excercise 7 
