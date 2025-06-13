@@ -25,6 +25,7 @@ GitLab is a DevOps platform that integrates various tools(version control,issue 
 Git commit saves the state of the project. It saves a new commit object in the local git repository.It basically takes a snapshot of your project at a specific point in time.
 
 - "Refer to the commit image in the 'images' folder, specifically the screenshot named 'Exercise 5.'"
+-![Alt text](images/Excercise5.png)
 
 
 
@@ -37,7 +38,7 @@ Git log is used to display the list of commit in reversed chronological order
 
 - "Refer to the Git log image in the 'images' folder, specifically the screenshot named 'git-log'"
 
--![Alt text](images/git-log.png)
+-![Alt text](images/git-log.PNG)
 
 # Execise 8 
 `Git add .`  - is used to add changes from the working area to the staging area 
@@ -61,9 +62,8 @@ The staging area in Git which is also known as the index, is an intermediate are
 `git remote show origin`
 
 - "Refer to the image in the 'images' folder, specifically the screenshot named 'remote-show'"
--![Alt text](images/remote-show.png)
+-![Alt text](images/remote-show.PNG)
 
-<img alt="Sample image" src="images/remote-show.png" style="width:100%;">
 # Exercise 13 
 rebase rewrites the commit history by taking changes from one branch and applying them onto another, creating a new base commit.
 
@@ -75,7 +75,7 @@ git checkout allows you to switch between branches , create new branches and eve
 the alias of git checkout is git switch 
 
 - "Refer to the image in the 'images' folder, specifically the screenshot named 'checkout'"
--![Alt text](images/checkout.png)
+-![Alt text](images/Checkout.PNG)
 
 # Exercise 15 
 Git tags are references used to label specific points in the git history.
