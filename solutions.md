@@ -26,6 +26,8 @@ Git commit saves the state of the project. It saves a new commit object in the l
 
 - "Refer to the commit image in the 'images' folder, specifically the screenshot named 'Exercise 5.'"
 
+
+
 # Excersise 6 
 You use the command `touch .gitignore`
 edit the git ignore folder with the file you want to ignore 
@@ -35,6 +37,8 @@ Git log is used to display the list of commit in reversed chronological order
 
 - "Refer to the Git log image in the 'images' folder, specifically the screenshot named 'git-log'"
 
+-![Alt text](images/git-log.png)
+
 # Execise 8 
 `Git add .`  - is used to add changes from the working area to the staging area 
 
@@ -42,6 +46,7 @@ Git log is used to display the list of commit in reversed chronological order
 The staging area in Git which is also known as the index, is an intermediate area where changes are gathered before they are committed to the repository. It allows for reviews and correction to be made before final commit.
 
 - "Refer to the commit image in the 'images' folder, specifically the screenshot named 'Staging '"
+-![Alt text](images/staging.png)
 
 # Exercise 10
 
@@ -56,6 +61,7 @@ The staging area in Git which is also known as the index, is an intermediate are
 `git remote show origin`
 
 - "Refer to the image in the 'images' folder, specifically the screenshot named 'remote-show'"
+-![Alt text](images/remote-show.png)
 
 
 # Exercise 13 
@@ -68,7 +74,8 @@ git checkout allows you to switch between branches , create new branches and eve
 
 the alias of git checkout is git switch 
 
-- "Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 14'"
+- "Refer to the image in the 'images' folder, specifically the screenshot named 'checkout'"
+-![Alt text](images/checkout.png)
 
 # Exercise 15 
 Git tags are references used to label specific points in the git history.
