@@ -63,7 +63,7 @@ The staging area in Git which is also known as the index, is an intermediate are
 - "Refer to the image in the 'images' folder, specifically the screenshot named 'remote-show'"
 -![Alt text](images/remote-show.png)
 
-
+<img alt="Sample image" src="images/remote-show.png" style="width:100%;">
 # Exercise 13 
 rebase rewrites the commit history by taking changes from one branch and applying them onto another, creating a new base commit.
 
