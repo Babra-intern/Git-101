@@ -95,6 +95,8 @@ Git tags are references used to label specific points in the git history.
 
 - "Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 17'"
 
+-![Alt text](images/rename_branch.PNG)
+
 # Exercise 18
 
 `git revert` creates a new commit that undoes changes made in a previous commit without removing history.
@@ -103,6 +105,8 @@ Git tags are references used to label specific points in the git history.
 # Exercise 19
 
 (Refer to Exercise 19 in the 'images' folder that shows the branches, as well as the Git-101 folder for the  calculator.py)
+
+-![Alt text](images/branches.PNG)
 
 # Exercise 20
 
