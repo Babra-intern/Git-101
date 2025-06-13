@@ -25,7 +25,7 @@ GitLab is a DevOps platform that integrates various tools(version control,issue 
 Git commit saves the state of the project. It saves a new commit object in the local git repository.It basically takes a snapshot of your project at a specific point in time.
 
 - "Refer to the commit image in the 'images' folder, specifically the screenshot named 'Exercise 5.'"
--![Alt text](images/Exercise5.png)
+-![Alt text](images/Exercise5.PNG)
 
 
 
