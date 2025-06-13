@@ -111,6 +111,8 @@ Git tags are references used to label specific points in the git history.
 # Exercise 20
 
 (Refer to Exercise 20 in the 'images' folder that show the results from the how to collaborate activity)
+-![Alt text](images/Exercise20.PNG)
+
 
 here is the link to the repo
 https://github.com/Babra-intern/how-we-collaborate
