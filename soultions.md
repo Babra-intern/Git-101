@@ -8,7 +8,7 @@ Git is a version control system designed to help keep track of changes in softwa
 
 Git is the version control system and a source code management system.It is installed and maintained in the cloud.
 
-GitHub is a Clouf based hosting platform that incorporates git's version control features  allowing  users to manage various Git repositories
+GitHub is a Cloud based hosting platform that incorporates git's version control features  allowing  users to manage various Git repositories
 
 GitLab is a DevOps platform that integrates various tools(version control,issue tracking , continuous integration/deployment) and funtionalities to streamline software developmennt 
 
@@ -99,3 +99,4 @@ Reverting creates a new commit that reverses changes made in a previous commit.
 Git reseting means to move the repository back to a previous commit, discarding any changes made after that commit. 
 
 Git reset is used when we want to unstage a file and bring our changes back to the working directory whiles Git revert is used to remove the commits from the remote repository.
+
